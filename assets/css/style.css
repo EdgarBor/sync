@@ -1,0 +1,1693 @@
+header {
+    padding: 21px 0px;
+}
+
+/* watch_wrapper */
+
+.watch_wrapper {
+    padding: 50px 0;
+    width: 100%;
+}
+
+.watch_cnt {
+    display: flex;
+    justify-content: space-between;
+}
+
+.watch_content {
+    width: 34%;
+}
+
+.head_time {
+    display: flex;
+}
+
+.online_course {
+    display: flex;
+}
+
+.online_course h5 {
+    margin-left: 8px;
+    font-weight: 100;
+}
+
+.clock {
+    display: flex;
+    margin-left: 18px;
+}
+
+.clock h5 {
+    margin-left: 8px;
+    font-weight: 100;
+}
+
+.calendar {
+    display: flex;
+    margin-left: 18px;
+}
+
+.calendar h5 {
+    margin-left: 8px;
+    font-weight: 100;
+}
+
+.watch_content h2 {
+    font-size: 57px;
+    line-height: 50px;  
+    margin-top: 40px;
+}
+
+.watch_content p {
+    margin-top: 15px;
+}
+
+.watch_img {
+    margin: 0 10%;
+}
+
+.author_text {
+    width: 310px;
+    background-color: #1E4681;
+    color: #FFFFFF;
+    padding: 15px 20px;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 60px auto 0px;
+}
+
+.author_text p {
+    font-size: 17px;
+}
+
+.author_text p:nth-child(2) {
+    text-align: right;
+    font-size: 12px;
+}
+
+/* about_course */
+
+.about_wrap {
+    padding: 70px 0;
+    width: 100%;
+}
+
+.about_course {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about_content  {
+    width: 43%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.about_content  h2 {
+    font-size: 40px;
+}
+
+.about_content  p {
+    font-size: 18px;
+}
+
+.about_cards {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about_items {
+    width: 23%;
+}
+
+.about_items span {
+    display: inline-block;
+    margin-top: 10px;
+    width: 55%;
+}
+
+/* class_format */
+
+.class_format {
+    padding: 70px 0;
+    width: 100%;
+}
+
+.class_format h2 {
+    font-size: 40px;
+}
+
+.class_form_list {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.class_form_item {
+    width: 32%;
+}
+
+.class_form_item h4 {
+    color: #1E4681;
+    font-size: 16px;
+}
+
+.class_form_item span {
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 45%;
+}
+
+/* course_list */
+
+.course_list {
+    width: 50%;
+    padding: 70px 0;
+}
+
+.course_list h2 {
+    font-size: 40px;
+}
+
+.course_list ul {
+    line-height: 1.5;
+    margin-top: 30px;
+}
+
+.course_list ul li {
+    list-style: disc;
+}
+
+/* course_program */
+
+.course_program {
+    padding: 70px 0;
+    width: 100%;
+}
+
+.course_program h2 {
+    font-size: 40px;
+}
+
+.course_program_list {
+    margin-top: 70px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.course_program_item {
+    width: 90%;
+    height: 255px;
+    margin: 15px 0;
+    border-radius: 12%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.course_program_item img {
+    width: 100%;
+}
+
+.course_program_item h3 {
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+.course_program_item span {
+    font-size: 15px;
+    display: inline-block;
+    width: 48%;
+    margin-top: 30px;
+    padding: 0 15px;
+}
+
+/* course_development */
+
+.course_development {
+    width: 100%;
+    padding: 70px 0;
+    background-color: #EFEFEF;
+}
+
+.course_development h2 {
+    font-size: 40px;
+}
+
+.membership_card {
+    width: 62%;
+    height: 360px;
+    background-color: #ffffff;
+    margin-top: 50px;
+    padding: 30px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.membership_card p {
+    line-height: 1.3;
+}
+
+.photo_name {
+    display: flex;
+    margin-top: 60px;
+}
+
+.photo_name img {
+    width: 23%;
+}
+
+.profil {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.photo_name h3 {
+    font-size: 24px;
+}
+
+.photo_name i {
+    margin-top: 20px;
+    color: blue;
+    font-size: 22px;
+}
+
+/* start_course */
+
+.start_course {
+    width: 100%;
+    padding: 120px 0;
+    background-color: #9DC9C8;
+}
+
+.start_course_content h2 {
+    font-size: 40px;
+}
+
+.start_course_content h5 {
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 30px;
+    font-weight: normal;
+}
+
+.start_course_content h3 {
+    font-size: 50px;
+}
+
+.box_course {
+    display: grid;
+    grid-template-columns: 25% 25%;
+}
+
+.box {
+    width: 86%;
+    margin-top: 40px;
+}
+
+.box h4 {
+    font-size: 17px;
+}
+
+.box span {
+    display: flex;
+    margin-top: 8px;
+    font-size: 15px;
+}
+
+/* footer */
+
+footer {
+    padding: 35px 0 40px;
+    background-color: #000000;
+}
+
+.footer_box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot_left img {
+    background-color: #ffffff;
+}
+
+.social_media {
+    margin: 20px 0;
+    font-size: 23px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social_media i {
+    color: #ffffff;
+}
+
+.foot_right {
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+
+.tel_number i {
+    margin-right: 15px;
+}
+
+.email_address {
+    margin-top: 15px;
+}
+
+.email_address i {
+    margin-right: 15px;
+}
+
+.footer_bottom {
+    color: #ffffff;
+    margin-top: 35px;
+}
+
+@media only screen and (max-width: 1326px) {
+    .about_items img {
+        width: 77%; 
+    }
+
+    .about_items span {
+        width: 100%;
+    }
+
+    .about_content {
+        width: 50%;
+    }
+
+    .watch_content h2 {
+        font-size: 48px;
+    }
+}
+
+
+@media only screen and (max-width: 1170px) {
+    .watch_content {
+        width: 50%;
+    }
+
+    .about_content h2 {
+        font-size: 38px;
+    }
+
+    .about_content {
+        width: 50%; 
+    }
+
+    .about_content p {
+        font-size: 16px;
+    }
+
+    .author_text p {
+        font-size: 16px;
+    }
+
+    .watch_content p {
+        font-size: 16px;
+    }
+
+    .watch_content h2 {
+        width: 73%;
+        font-size: 48px;
+    }
+
+    .about_img {
+        width: 40%;
+    }
+
+    .about_img img {
+        width: 82%;
+    }
+
+    .about_cards img {
+        width: 77%;
+    }
+
+    .course_list ul li {
+        font-size: 17px;
+        margin-top: 10px;
+    }
+
+    .watch_img {
+        width: 24%;
+    }
+
+    .watch_img img {
+        width: 100%;
+    }
+    
+    .course_list {
+        width: 75%;
+    }
+
+    .course_program_item h3 {
+        font-size: 18px;
+    }
+
+    .course_program_item span {
+        font-size: 14px;
+    }
+
+    .class_form_item span {
+        font-size: 13px;
+        width: 55%;
+    }
+}
+
+@media only screen and (max-width: 1090px) {
+    .about_content p {
+        font-size: 14px;
+    }
+
+    .watch_content h2 {
+        width: 75%;
+        font-size: 43px;
+    }
+
+    .about_img {
+        width: 38%;
+    }
+
+    .about_items span {
+        width: 77%;
+        font-size: 14px;
+    }
+
+    .class_format h2 {
+        font-size: 38px;
+    }
+
+    .course_list h2 {
+        font-size: 38px;
+    }
+    
+    .course_program h2 {
+        font-size: 38px;
+    }
+
+    .course_development h2 {
+        font-size: 38px;
+    }
+
+    .start_course_content h2 {
+        font-size: 38px;
+    }
+
+}
+
+@media only screen and (max-width: 994px) {
+    .logo img {
+        width: 12%;
+    }
+
+    .head_time {
+        font-size: 13px;
+    }
+
+    .watch_content h2 {
+        font-size: 43px;
+        width: 84%;
+    }
+
+    .watch_content p {
+        font-size: 14px;
+    }
+
+    .author_text p {
+        font-size: 14px;
+    }
+
+    .author_text p:nth-child(2) {
+        font-size: 11px;
+    }
+
+    .about_img {
+        width: 37%;
+    }
+
+    .about_img img {
+        width: 80%;
+    }
+    
+    .about_items h4 {
+        font-size: 14px;
+    }
+
+    .about_content h2 {
+        font-size: 36px;
+    }
+
+    .about_content p {
+        font-size: 13px;
+    }
+
+    .about_items span {
+        font-size: 13px;
+        width: 64%;
+    }
+    
+    .class_format h2 {
+        font-size: 36px;
+    }
+
+    .course_program_item h3 {
+        font-size: 15px;
+    }
+
+    .course_program_item span {
+        font-size: 12px;
+    }
+
+    .class_form_item h4 {
+        font-size: 14px;
+    }
+
+    .course_development h2 {
+        font-size: 35px;
+    }
+
+    .membership_card p {
+        font-size: 13px;
+    }
+
+    .photo_name h3 {
+        font-size: 15px;
+    }
+
+    .start_course_content h3 {
+        font-size: 38px;
+    }
+
+    .box span {
+        font-size: 12px;
+    }
+
+    .class_form_item span {
+        font-size: 12px;
+        width: 75%;
+    }
+
+    .course_list h2 {
+        font-size: 36px;
+    }
+
+    .course_list ul li {
+        font-size: 13px;
+        margin-top: 8px;
+    }
+
+    .course_program h2 {
+        font-size: 35px;
+    }
+
+    .start_course_content h2 {
+        font-size: 35px;
+    }
+
+    .course_program_item {
+        width: 90%;
+        height: 235px;
+    }
+
+    .photo_name i {
+        margin-top: 18px;
+        font-size: 18px;
+    }
+
+    .start_course_content h5 {
+        font-size: 16px;
+    }
+
+    .box h4 {
+        font-size: 14px;
+    }
+
+    .foot_left img {
+        width: 73%;
+    }
+
+    .social_media i {
+        font-size: 18px;
+    }
+
+    .tel_number i {
+        margin-right: 14px;
+        font-size: 12px;
+    }
+
+    .tel_number span {
+        font-size: 14px;
+    }
+
+    .email_address i {
+        margin-right: 15px;
+        font-size: 14px;
+    }
+
+    .email_address span {
+        font-size: 14px;
+    }
+
+    .footer_bottom {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 907px) {
+    .watch_content h2 {
+        font-size: 40px;
+        width: 100%;
+    }
+
+    .watch_content p {
+        font-size: 13px;
+    }
+
+    .author_text p {
+        font-size: 12px;
+    }
+
+    .about_content h2 {
+        font-size: 33px;
+    }
+
+    .about_content {
+        width: 59%;
+    }
+
+    .about_content p {
+        font-size: 11px;
+    }
+
+    .about_img {
+        width: 30%;
+    }
+
+    .about_img img {
+        width: 98%;
+    }
+
+    .about_items span {
+        font-size: 13px;
+        width: 81%;
+    }
+
+    .class_format h2 {
+        font-size: 33px;
+    }
+    
+    .course_list h2 {
+        font-size: 33px;
+    }
+
+    .course_program h2 {
+        font-size: 33px;
+    }
+
+    .course_program_item {
+        width: 85%;
+        height: 210px;
+    }
+
+    .course_program_item h3 {
+        font-size: 13px;
+    }
+
+    .course_program_item span {
+        font-size: 9px;
+    }
+
+    .course_development h2 {
+        font-size: 33px;
+    }
+
+    .membership_card p {
+        font-size: 12px;
+    }
+
+    .photo_name h3 {
+        font-size: 14px;
+    }
+
+    .start_course_content h2 {
+        font-size: 33px;
+    }
+
+    .start_course_content h5 {
+        font-size: 15px;
+    }
+
+    .start_course_content h3 {
+        font-size: 35px;
+    }
+
+    .box h4 {
+        font-size: 12px;
+    }
+
+    .box span {
+        font-size: 11px;
+    }
+    
+
+    .foot_left img {
+        width: 70%;
+    }
+
+    .tel_number i {
+        margin-right: 14px;
+        font-size: 11px;
+    }
+
+    .tel_number span {
+        font-size: 12px;
+    }
+
+    .email_address i {
+        margin-right: 15px;
+        font-size: 13px;
+    }
+
+    .email_address span {
+        font-size: 12px;
+    }
+
+    .footer_bottom {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .logo img {
+        width: 11%;
+    }
+
+    .head_time {
+        font-size: 12px;
+    }
+
+    .watch_content h2 {
+        font-size: 34px;
+        width: 100%;
+        line-height: 41px;
+    }
+
+    .watch_img {
+        width: 25%;
+        margin-top: 11%;
+    }
+
+    .watch_content p {
+        font-size: 11px;
+    }
+
+    .author_text p {
+        font-size: 10px;
+    }
+
+    .author_text p:nth-child(2) {
+        font-size: 9px;
+    }
+
+    .about_content h2 {
+        font-size: 28px;
+    }
+
+    .about_course {
+        height: 210px;
+    }
+
+    .about_items h4 {
+        font-size: 12px;
+    }
+
+    .about_items span {
+        font-size: 11px;
+        width: 94%;
+    }
+
+    .class_format h2 {
+        font-size: 27px;
+    }
+
+    .class_form_item h4 {
+        font-size: 12px;
+    }
+
+    .class_form_item span {
+        font-size: 10px;
+        width: 88%;
+    }
+
+    .course_list h2 {
+        font-size: 28px;
+    }
+
+    .course_list ul li {
+        font-size: 11px;
+        margin-top: 6px;
+    }
+
+    .course_program h2 {
+        font-size: 27px;
+    }
+
+    .course_program_item h3 {
+        font-size: 11px;
+    }
+
+    .course_program_item span {
+        font-size: 7px;
+    }
+
+    .course_program_item {
+        width: 88%;
+        height: 185px;
+    }
+
+    .course_development h2 {
+        font-size: 25px;
+    }
+
+    .membership_card p {
+        font-size: 9px;
+    }
+
+    .membership_card {
+        width: 62%;
+        height: 277px;
+    }
+
+    .photo_name h3 {
+        font-size: 11px;
+    }
+
+    .photo_name i {
+        margin-top: 12px;
+        font-size: 12px;
+    }
+
+    .start_course_content h2 {
+        font-size: 25px;
+    }
+
+    .start_course_content h5 {
+        font-size: 13px;
+    }
+
+    .start_course_content h3 {
+        font-size: 30px;
+    }
+    
+    .box span {
+        font-size: 9px;
+    }
+    
+    .foot_left img {
+        width: 60%;
+    }
+
+    .tel_number i {
+        margin-right: 14px;
+        font-size: 9px;
+    }
+
+    .tel_number span {
+        font-size: 10px;
+    }
+
+    .email_address span {
+        font-size: 10px;
+    }
+
+    .email_address i {
+        margin-right: 15px;
+        font-size: 11px;
+    }
+    
+    .social_media i {
+        font-size: 16px;
+    }
+
+    .footer_bottom {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 721px) {
+    .head_time {
+        font-size: 9px;
+    }
+
+    .watch_content h2 {
+        font-size: 31px;
+        width: 100%;
+        line-height: 34px;
+    }
+
+    .about_content h2 {
+        font-size: 25px;
+    }
+
+    .about_content p {
+        font-size: 10px;
+    }
+
+    .about_img img {
+        width: 86%;
+    }
+
+    .about_img {
+        width: 29%;
+    }
+
+    .about_items h4 {
+        font-size: 10px;
+    }
+
+    .about_items span {
+        font-size: 10px;
+        width: 73%;
+    }
+
+    .class_format h2 {
+        font-size: 24px;
+    }
+
+    .class_form_item h4 {
+        font-size: 11px;
+    }
+
+    .class_form_item span {
+        font-size: 9px;
+        width: 94%;
+    }
+    
+    .course_list h2 {
+        font-size: 24px;
+    }
+
+    .course_list ul li {
+        font-size: 10px;
+        margin-top: 5px;
+    }
+
+    .course_program h2 {
+        font-size: 23px;
+    }
+
+    .course_program_list {
+        margin-top: 45px;
+    }
+
+    .course_program_item h3 {
+        font-size: 9px;
+    }
+
+    .course_program_item span {
+        font-size: 7px;
+        margin-top: 16px;
+        width: 77%;
+    }
+
+    .course_program_item {
+        width: 90%;
+        height: 143px;
+    }
+    
+    .course_program_item {
+        width: 90%;
+        height: 143px;
+    }
+    
+    .membership_card p {
+        font-size: 7px;
+    }
+
+    .photo_name h3 {
+        font-size: 9px;
+    }
+    
+    .membership_card {
+        width: 61%;
+        height: 250px;
+    }
+
+    .start_course_content h2 {
+        font-size: 22px;
+    }
+
+    .start_course_content h5 {
+        font-size: 11px;
+    }
+    
+    .start_course_content h3 {
+        font-size: 25px;
+    }
+
+    .box h4 {
+        font-size: 10px;
+    }
+
+    .box {
+        width: 80%;
+    }
+
+    .box span {
+        font-size: 8px;
+    }
+
+    .foot_left img {
+        width: 50%;
+    }
+
+    .social_media i {
+        font-size: 14px;
+    }
+
+    .footer_bottom {
+        font-size: 9px;
+    }
+
+    .watch_img {
+        width: 21%;
+        margin-top: 12%;
+    }
+}
+
+@media only screen and (max-width: 645px) {
+    .head_time {
+        font-size: 8px;
+    }
+
+    .watch_wrapper {
+        padding: 30px 0;
+        width: 100%;
+    }
+    
+    .watch_content h2 {
+        font-size: 24px;
+        width: 100%;
+        margin-top: 12px;
+    }
+    
+    .author_text {
+        width: 220px;
+    }
+
+    .watch_content {
+        width: 63%;
+    }
+
+    .watch_content p {
+        font-size: 9px;
+        margin-top: 12px;
+    }
+
+    .watch_img {
+        width: 20%;
+        margin: 7% -10% 7% 0%;
+    }
+
+    .author_text p {
+        font-size: 9px;
+    }
+
+    .author_text p:nth-child(2) {
+        font-size: 8px;
+    }
+
+    .about_content h2 {
+        font-size: 23px;
+    }
+
+    .about_img {
+        width: 24%;
+    }
+    
+    .about_content p {
+        font-size: 8px;
+    }
+
+    .about_content {
+        width: 56%;
+    }
+
+    .about_img img {
+        width: 100%;
+        margin-top: 55px;
+    }
+
+    .about_img img {
+        width: 86%;
+        margin-top: 55px;
+    }
+
+    .about_items span {
+        font-size: 8px;
+        width: 82%;
+    }
+
+    .class_format h2 {
+        font-size: 21px;
+    }
+
+    .class_format {
+        padding: 30px 0;
+        width: 100%;
+    }
+
+    .class_form_item h4 {
+        font-size: 9px;
+    }
+
+    .class_form_item span {
+        font-size: 8px;
+        width: 90%;
+    }
+
+    .course_list h2 {
+        font-size: 21px;
+    }
+
+    .course_list ul li {
+        font-size: 9px;
+        margin-top: 5px;
+    }
+
+    .course_program h2 {
+        font-size: 20px;
+    }
+
+    .course_program {
+        padding: 30px 0;
+        width: 100%;
+    }
+    
+    .course_development h2 {
+        font-size: 21px;
+    }
+
+    .membership_card p {
+        font-size: 6px;
+    }
+
+    .photo_name {
+        margin-top: 40px;
+    }
+
+    .photo_name h3 {
+        font-size: 7px;
+    }
+
+    .membership_card {
+        width: 61%;
+        height: 210px;
+    }
+
+    .start_course_content h2 {
+        font-size: 20px;
+    }
+
+    .start_course_content h5 {
+        font-size: 10px;
+    }
+
+    .start_course_content h3 {
+        font-size: 21px;
+    }
+
+    .box h4 {
+        font-size: 8px;
+    }
+
+    .box_course {
+        grid-template-columns: 30% 29%;
+    }
+
+    .foot_left img {
+        width: 45%;
+    }
+
+    .social_media i {
+        font-size: 13px;
+    }
+
+    .email_address {
+        margin-top: 7px;
+    }
+
+    .tel_number span {
+        font-size: 9px;
+    }
+
+    .email_address span {
+        font-size: 9px;
+    }
+
+    .footer_bottom {
+        font-size: 8px;
+        margin-top: 25px;
+    }
+
+    .about_course {
+        height: 170px;
+    }
+
+    .about_cards {
+        margin-top: 70px;
+    }
+
+    .footer_bottom {
+        font-size: 8px;
+        margin-top: 17px;
+    }
+
+    header {
+        padding: 19px 0px;
+    }
+
+    .container {
+        padding: 0 90px;
+    }
+}
+
+@media only screen and (max-width: 527px) {
+    .watch_content h2 {
+        font-size: 20px;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .container {
+        padding: 0 93px;
+    }
+
+    .calendar {
+        margin-left: 10px;
+    }
+
+    .clock {
+        margin-left: 10px;
+    }
+
+    .membership_card {
+        width: 80%;
+        height: 210px;
+    }
+
+    .container {
+        padding: 0 70px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .logo img {
+        width: 20%;
+    }
+
+    .watch_cnt {
+        display: block;
+    }
+
+    .watch_content {
+        width: 100%;
+    }
+
+    .container {
+        padding: 0 43px;
+    }
+    
+    .head_time {
+        font-size: 12px;
+    }
+
+    .online_course h5 {
+        margin-left: 8px;
+        font-weight: 400;
+    }
+
+    .clock {
+        margin-left: 13px;
+    }
+
+    .clock h5 {
+        margin-left: 8px;
+        font-weight: 400;
+    }
+
+    .calendar {
+        margin-left: 12px;
+    }
+
+    .calendar h5 {
+        margin-left: 8px;
+        font-weight: 400;
+    }
+
+    .watch_content h2 {
+        font-size: 40px;
+        width: 100%;
+        margin-top: 18px;
+    }
+
+    .watch_content p {
+        font-size: 12px;
+        margin-top: 15px;
+    }
+    
+    .watch_img {
+        width: 50%;
+        margin-left: 48%;
+    }
+
+    .author_text {
+        width: 240px;
+        margin: 0;
+    }
+
+    .author_text p {
+        font-size: 12px;
+    }
+
+    .author_text p:nth-child(2) {
+        font-size: 10px;
+    }
+
+    .about_course {
+        height: 170px;
+        display: block;
+    }
+
+    .about_content {
+        width: 100%;
+    }
+
+    .about_content h2 {
+        font-size: 26px;
+    }
+
+    .about_content p {
+        font-size: 13px;
+        margin-top: 24px;
+    }
+
+    .about_cards {
+        margin-top: 221px;
+    }
+
+    .about_img img {
+        width: 100%;
+        margin-top: 27px;
+    }
+
+    .about_img {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .about_cards {
+        margin-top: 235px;
+    }
+
+    .about_cards img {
+        width: 77%;
+        display: none;
+    }
+    
+    .about_cards {
+        display: grid;
+        grid-template-columns: auto auto;
+        margin-top: 166px;
+    }
+    
+    .about_items {
+        width: 89%;
+        margin-top: 24px;
+    }
+
+    .about_items h4 {
+        font-size: 12px;
+    }
+
+    .about_items span {
+        font-size: 10px;
+        width: 69%;
+        font-weight: 400;
+    }
+
+    .class_format h2 {
+        font-size: 27px;
+    }
+    
+    .class_form_list {
+        display: block;
+        margin-top: 40px;
+    }
+
+    .class_form_item {
+        width: 50%;
+    }
+
+    .class_form_item h4 {
+        font-size: 12px;
+    }
+
+    .class_form_item span {
+        font-size: 10px;
+        width: 100%;
+        margin-top: 5px;
+    }
+
+    .class_form_item {
+        width: 55%;
+    }
+
+    .class_form_item {
+        width: 55%;
+        margin-top: 25px;
+    }
+
+    .about_wrap {
+        padding: 50px 0;
+    }
+
+    .course_list {
+        width: 75%;
+        padding: 50px 0;
+    }
+
+    .course_list h2 {
+        font-size: 27px;
+    }
+
+    .course_list {
+        width: 100%;
+        padding: 50px 0;
+    }
+
+    .course_list ul li {
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+    .course_program h2 {
+        font-size: 27px;
+    }
+
+    .course_program_list {
+        margin-top: 45px;
+        display: block;
+    }
+
+    .course_program_item {
+        width: 75%;
+        height: 210px;
+    }
+
+    .course_program_item {
+        width: 75%;
+        height: 240px;
+        margin: 35px auto;
+    }
+    
+
+    .course_program_item h3 {
+        font-size: 16px;
+    }
+
+    .course_program_item span {
+        font-size: 14px;
+        margin-top: 25px;
+        width: 60%;
+    }
+    
+    .course_development h2 {
+        font-size: 27px;
+    }
+
+    .membership_card {
+        width: 100%;
+        height: 300px;
+        margin: 30px auto;
+    }
+
+    .membership_card p {
+        font-size: 11px;
+    }
+
+    .photo_name img {
+        width: 29%;
+    }
+
+    .photo_name h3 {
+        font-size: 14px;
+    }
+    
+    .photo_name i {
+        margin-top: 15px;
+        font-size: 19px;
+    }
+
+    .start_course_content h2 {
+        font-size: 27px;
+    }
+
+    .start_course_content h5 {
+        font-size: 13px;
+    }
+    
+    .start_course_content h3 {
+        font-size: 35px;
+        font-weight: 500;
+    }
+
+    .box_course {
+        grid-template-columns: auto auto;
+    }
+
+    .box h4 {
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .box span {
+        font-size: 11px;
+    }
+
+    .footer_box {
+        display: block;
+    }
+
+    .foot_left img {
+        width: 19%;
+    }
+
+    .social_media {
+        margin: 20px 0px;
+        display: inherit;
+    }
+
+    .social_media i {
+        font-size: 17px;
+    }
+
+    .tel_number i {
+        margin-right: 14px;
+        font-size: 12px;
+    }
+
+    .tel_number span {
+        font-size: 11px;
+    }
+
+    .email_address span {
+        font-size: 11px;
+    }
+
+    .footer_bottom {
+        font-size: 10px;
+        margin-top: 27px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .watch_wrapper {
+        padding: 15px 0;
+    }
+
+    .watch_content h2 {
+        font-size: 35px;
+    }
+
+    .watch_content p {
+        font-size: 11px;
+    }
+
+    .author_text {
+        width: 210px;
+        margin: 40px 0px;
+    }
+
+    .author_text p {
+        font-size: 10px;
+    }
+
+    .author_text p:nth-child(2) {
+        font-size: 8px;
+    }
+
+    .about_wrap {
+        padding: 30px 0;
+    }
+
+    .about_content p {
+        font-size: 12px;
+    }
+
+    .course_list ul li {
+        font-size: 11px;
+        margin-top: 3px;
+    }
+
+    .course_program_item span {
+        font-size: 13px;
+    }
+
+    .course_program_item {
+        height: 230px;
+    }
+
+    .photo_name h3 {
+        font-size: 11px;
+    }
+
+    .photo_name i {
+        margin-top: 13px;
+        font-size: 16px;
+    }
+
+    .box span {
+        font-size: 9px;
+    }
+
+    .membership_card p {
+        font-size: 9px;
+    }
+
+    .about_items span {
+        font-size: 11px;
+    }
+
+    .course_development h2 {
+        font-size: 26px;
+    }
+}
